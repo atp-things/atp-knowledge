@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkatp_knowledge=self.webpackChunkatp_knowledge||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/atp-knowledge/blog","blogTitle":"Blog","authorsListPath":"/atp-knowledge/blog/authors"}')}}]);
