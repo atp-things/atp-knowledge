@@ -1,0 +1,14 @@
+{
+  "editor.rulers": [88],
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 88,
+
+  "[markdown]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  }
+}
