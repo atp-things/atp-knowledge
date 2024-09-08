@@ -8,7 +8,6 @@
       "type": "shell",
       "command": "./scripts/release.sh"
     },
-    // Git - pre-commit
     {
       "label": "preCommit - install",
       "detail": "Install pre-commit hooks from .pre-commit-config.yaml to .git hooks.",
@@ -20,6 +19,13 @@
       "detail": "Run pre-commit hooks described in .pre-commit-config.yaml",
       "type": "shell",
       "command": "pipenv run pre-commit run --all-files"
+    },
+    {
+      "type": "npm",
+      "script": "start",
+      "problemMatcher": [],
+      "label": "npm: start",
+      "detail": "docusaurus start"
     }
   ]
 }
