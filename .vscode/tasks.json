@@ -6,7 +6,7 @@
     {
       "label": "Deploy - to github pages",
       "type": "shell",
-      "command": "./scripts/release.sh"
+      "command": "GIT_USER=andrazpolak npm run deploy"
     },
     {
       "label": "preCommit - install",
