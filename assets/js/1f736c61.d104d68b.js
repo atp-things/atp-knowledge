@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkatp_knowledge=self.webpackChunkatp_knowledge||[]).push([[2774],{348:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/atp-knowledge/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
