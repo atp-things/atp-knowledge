@@ -16,13 +16,13 @@ git config list
 
 ```Bash
 # Global
-git config --global user.name "Andraz Polak"
-git config --global user.email "andrazpolak@gmail.com"
+git config --global user.name "Name"
+git config --global user.email "username@gmail.com"
 git config --global credential.helper store
 # local
-git config user.name "Andraz Polak"
-git config user.email "andrazpolak@gmail.com"
-git config credential.https://github.com andrazpolak
+git config user.name "Name"
+git config user.email "username@gmail.com"
+git config credential.https://github.com username
 # Repository credentials
 git config --global url."https://token:$GIT_TOKEN@github.com/".insteadOf "https://github.com/"
 git config --global url."https://token:`cat /secrets/GITHUB_TOKEN`@github.com/".insteadOf "https://github.com/"
