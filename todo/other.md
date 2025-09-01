@@ -1,6 +1,8 @@
 # Other
 
-## Libs
+https://medium.com/codrift/15-python-libraries-every-backend-developer-should-know-5bec5d2898d8
+
+## Time series list
 
 🟢 𝘁𝘀𝗳𝗿𝗲𝘀𝗵 - 𝟴.𝟰𝗸 ⭐
 Tsfresh automatically extracts hundreds of features, from simple statistics to complex algorithms.
